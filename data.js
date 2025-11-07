@@ -23,6 +23,8 @@ const items = [
     name_en: "Ancient Sword",
     img: "https://danviet.ex-cdn.com/files/f1/upload/2-2019/images/2019-06-25/Phat-hien-thanh-kiem-co-3000-nam-tuoi-tu-thoi-Chu-trong-luc-lam-bep-thanh-kiem-01-1561456515-width600height450.jpg",
     desc: "Vũ khí thời phong kiến được sử dụng trong nghi lễ và chiến đấu.",
-    desc_en: "A feudal-era weapon used in ceremonial events and warfare.",
+    desc_en:
+      "A feudal-era weapon used in ceremonial events and warfare.",
   },
 ];
+
